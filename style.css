@@ -1,0 +1,22 @@
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    
+}
+body{
+    background-color: #5A9B81;
+}
+
+#course{ 
+    font-size: 15px;
+}
+.list{
+    font-size: 17px;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
