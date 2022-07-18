@@ -1,22 +1,49 @@
+body{
+    background-color: #061B2A;
+    padding: 3%;
+}
+
 h1{
     font-family: 'Roboto', sans-serif;
     font-size: 40px;
+    color: aliceblue;
 }
 
-h2{
+#name {
     font-family: 'Roboto', sans-serif;
-    
-}
-body{
-    background-color: #5A9B81;
+    text-align: center;
+    color: aliceblue;
 }
 
-#course{ 
-    font-size: 15px;
-}
 .list{
     font-size: 17px;
+    color: aliceblue;
 }
+
 p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+
+#picture { 
+    float: left;
+    height: 240px;
+    padding: 5px;
+    background-color: rgb(144, 144, 0);
+}
+
+.image-descricao {
+    height: 250px;
+    position: relative;
+}
+
+.descricao {
+    position: absolute;
+    top: 32%;
+    right: 8%;
+    width: 800px;
+}
+
+ul.list li:nth-child(odd) {
+    background-color: brown;
 }
